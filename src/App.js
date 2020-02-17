@@ -12,6 +12,13 @@ function App() {
 
     
   return (
+    <>
+    <div className= 'marvins'> 
+        <h1> Marvins Score Board </h1>
+          <img src = {require("./images/Marvin.png")
+                      
+        }></img>
+    </div>
     <div className="container">
       <section className="scoreboard">
         <div className="topRow">
@@ -42,6 +49,7 @@ function App() {
         </div>
       </section>
     </div>
+    </>
   );
 }
 

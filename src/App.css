@@ -120,3 +120,22 @@
   margin: 1rem;
   border-radius: 4px;
 }
+
+.marvins {
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+font-size: 3rem;
+font-weight: 900;
+font-family: "Ozone";
+background-color: #af750a; 
+border-radius: 1200px;
+
+}
+
+img {
+  object-fit: contain;
+ 
+
+}
